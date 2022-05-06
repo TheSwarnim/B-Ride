@@ -15,6 +15,17 @@ All data concerning delivery transactions are stored on the Ethereum blockchain 
 
 In addition, since Ethereum tracks every transaction non-repudiably on the blockchain, there is always a trusted record. This allows for better transparency and more trust between Riders and Drivers in this open development platform. Lastly, with on-chain data concerning the reputation of both Riders and Drivers and the success of their prior "transactions", the use of blockchain technology promises to help facilitate the decentralized credit scoring system of the future.
 
+## Contributers
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/psm1729"><img src="https://avatars.githubusercontent.com/u/62738461?v=4" width="150px;" alt=""/><br /><sub><b>Prachhi Mishra</td>
+    <td align="center"><a href="https://github.com/theswarnim"><img src="https://avatars.githubusercontent.com/u/54211377?v=4" width="150px;" alt=""/><br /><sub><b>Swarnim Pratap Singh</td>
+    <td align="center"><a href="https://github.com/vimalgupta24"><img src="https://avatars.githubusercontent.com/u/68048632?v=4" width="150px;" alt=""/><br /><sub><b>Vimal Gupta</td>
+    <td align="center"><a href="https://github.com/dwdaditi"><img src="https://avatars.githubusercontent.com/u/66900102?v=4" width="150px;" alt=""/><br /><sub><b>Aditi Dwivedi</td>
+  </tr>
+</table>
+ 
 ## Installation Instructions
 
 1. Install Node.js & npm
