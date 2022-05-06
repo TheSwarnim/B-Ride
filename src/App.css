@@ -1,0 +1,116 @@
+/* PAGE */
+
+body,
+.pure-g [class*="pure-u"] {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Oswald", "Arial Narrow", sans-serif;
+}
+
+code {
+  display: block;
+  margin: 20px 0 15px 0;
+  padding: 10px;
+  background: #eee;
+}
+
+.container {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 45px 20px;
+}
+
+.pure-button-primary {
+  background-color: #0c1a2b;
+}
+
+.pure-button-primary:hover {
+  background-color: #233e5e;
+}
+
+.pure-form input[type="text"]:focus {
+  border-color: #0c1a2b;
+}
+
+/* NAVBAR */
+
+.navbar {
+  position: fixed;
+  padding: 5px;
+  background: #0c1a2b;
+  font-family: "Oswald", "Arial Narrow", sans-serif;
+}
+
+.navbar a {
+  color: #fff;
+}
+
+.navbar a:active,
+.navbar a:focus,
+.navbar a:hover {
+  background: #233e5e;
+}
+
+.navbar .pure-menu-heading {
+  font-weight: bold;
+  text-transform: none;
+}
+
+.navbar .navbar-right {
+  float: right;
+}
+
+.navbar .uport-logo {
+  height: 16px;
+  margin-right: 10px;
+}
+
+body {
+  /* height: 100%; */
+  background-image: linear-gradient(
+    to right top,
+    #d1ccde,
+    #c7c1de,
+    #bab7de,
+    #acaedf,
+    #9ca5e0,
+    #8aa7e6,
+    #73aaeb,
+    #54adee,
+    #23baef,
+    #00c6ea,
+    #00d1de,
+    #37dacf
+  );
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.para {
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  padding: 10px;
+  width: 75%;
+}
+
+.para-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  margin-top: 50px;
+}
+
+.ride-details {
+  display: flex;
+  flex-flow: column-reverse;
+}
