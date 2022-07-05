@@ -2,6 +2,9 @@
 
 A decentralized Ride Sharing Application using Blockchain, that ensures privacy, security and fare payments.
 
+## Video Link
+https://youtu.be/sfldmBp_Ja4
+
 ## What is B Ride?
 
 B Ride is a ride Sharing Decentralized Application which is built atop open and permissionless blockchain and provides a platform for users to share their ride with other users with privacy, security and fare payments.
